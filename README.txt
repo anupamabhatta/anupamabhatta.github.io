@@ -1,40 +1,37 @@
-Prologue by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# My Personal Website
 
+Welcome to the repository for my personal website! This repository contains the files and folders used to build and deploy my personal website.
 
-This is Prologue, a simple, single page responsive site template. It features a
-clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
+## Files and Folders
 
-Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
-more of her amazing work over at deviantART:
+### index.html
 
-http://ineedchemicalx.deviantart.com/
+The `index.html` file serves as the main entry point for my website. It contains the HTML structure, including the header, navigation menu, main content, and footer.
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
+### styles.css
 
-Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
-images you can use for pretty much whatever.
+The `styles.css` file contains the CSS styles used to customize the appearance and layout of my website. It includes styles for typography, colors, layout, and responsive design.
 
-(* = Not included)
+### scripts.js
 
-AJ
-aj@lkn.io | @ajlkn
+The `scripts.js` file contains any JavaScript code used to add interactivity or functionality to my website. This may include things like form validation, dynamic content loading, or animation effects.
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+### assets/
 
+The `assets/` folder contains various assets used in my website, such as images, icons, fonts, and other media files. These assets are referenced in the HTML and CSS files to enhance the visual presentation of the website.
 
-Credits:
+### README.md
 
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-		Unsplash (unsplash.com)
+The `README.md` file you're currently reading provides an overview of the contents of this repository and instructions on how to use and deploy my personal website.
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## Deployment
 
-	Other
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+To deploy my personal website, simply host the files in this repository on a web server or deploy them to a hosting service. Ensure that the `index.html` file is set as the default page to be served, and configure any necessary settings for the web server or hosting service.
+
+## Contributing
+
+I welcome contributions to my personal website! If you have suggestions for improvements, bug fixes, or new features, please feel free to open an issue or submit a pull request. Your feedback and contributions are greatly appreciated!
+
+## License
+
+This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code as long as you include the appropriate copyright notice and disclaimer.
