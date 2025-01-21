@@ -1,3 +1,4 @@
+
 # Personal Website
 
 A clean, responsive personal website built with HTML, CSS, and JavaScript.
@@ -18,11 +19,6 @@ This website serves as my digital portfolio and personal landing page. It featur
 └── assets/         # Images, icons, and other media
 ```
 
-## Setup
+## Contact
 
-1. Clone the repository
-2. Open `index.html` in your browser
-
-## License
-
-Released under the MIT License.
+Feel free to reach out if you have any questions or would like to connect!
