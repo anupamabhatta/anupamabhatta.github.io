@@ -2920,9 +2920,9 @@ button:active,
 	}
 
 	h2 {
-		font-size: 1.5em;
-		letter-spacing: 0;
-		font-weight: 300;
+		font-size: 2.5em;
+		letter-spacing: -1px;
+		font-weight: 500;
 	}
 
 	.container {
