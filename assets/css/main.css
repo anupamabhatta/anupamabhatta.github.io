@@ -2528,6 +2528,7 @@ button:active,
 #main>section.one {
 	background-color: #dcdcdc;
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/home.jpg");
+	/* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../images/home.jpg"); */
 }
 
 #main>section.two {
