@@ -2921,8 +2921,14 @@ button:active,
 
 	h2 {
 		font-size: 2.5em;
-		letter-spacing: -1px;
-		font-weight: 500;
+		letter-spacing: 0;
+		font-weight: 400;
+	}
+
+	h3 {
+		font-size: 1.5em;
+		letter-spacing: 0;
+		font-weight: 400;
 	}
 
 	.container {
