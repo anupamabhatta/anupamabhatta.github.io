@@ -258,7 +258,7 @@ h2.alt strong {
 }
 
 h3 {
-	font-size: 1.5em;
+	font-size: 1.25em;
 }
 
 header {
@@ -2191,7 +2191,7 @@ button:active,
 
 .item {
 	box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 
 .item header {
@@ -2553,7 +2553,7 @@ button:active,
 	background: linear-gradient(to right, rgba(226, 118, 137, 0.1), rgba(226, 118, 137, 0.2));
 	padding: 10px 15px;
 	border-left: 4px solid #e27689;
-	margin-bottom: 15px;
+	margin-bottom: 10px;
 	transition: transform 0.3s ease;
 }
 
