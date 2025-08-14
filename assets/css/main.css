@@ -262,11 +262,11 @@ h3 {
 }
 
 header {
-	margin: 0 0 2em 0;
+	margin: 2em 0 2em 0;
 }
 
 header>p {
-	margin: 1em 0 0 0;
+	margin: 0.5em 0 0 0;
 }
 
 footer {
@@ -2338,14 +2338,14 @@ button:active,
 }
 
 #logo h3 {
-	font-size: 1.25em;
+	font-size: 1em;
 	color: rgba(255, 255, 255, 0.5);
 	line-height: 1.25em;
 	padding-bottom: 5px;
 }
 
 #logo h4 {
-	font-size: 1em;
+	font-size: 0.9em;
 	color: rgba(255, 255, 255, 0.5);
 	line-height: 1.25em;
 }
