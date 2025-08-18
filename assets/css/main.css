@@ -181,9 +181,9 @@ html {
 body {
 	background: #fff;
 	font-family: 'Source Sans Pro', sans-serif;
-	font-size: 10pt;
+	font-size: 16pt;
 	font-weight: 300;
-	line-height: 1.6em;
+	line-height: 1.5em;
 	color: #888;
 	scroll-snap-type: y mandatory;
 	scroll-behavior: smooth;
@@ -208,7 +208,7 @@ input,
 textarea,
 select {
 	font-family: 'Source Sans Pro', sans-serif;
-	font-size: 10pt;
+	font-size: 16pt;
 	font-weight: 300;
 	line-height: 1.5em;
 	color: #888;
@@ -222,7 +222,7 @@ h5,
 h6 {
 	font-weight: 500;
 	color: #666;
-	line-height: 1.3em;
+	line-height: 1.5em;
 }
 
 h1 a,
@@ -245,7 +245,7 @@ h6 a strong {
 }
 
 h2 {
-	font-size: 2.5em;
+	font-size: 3em;
 	letter-spacing: -1px;
 }
 
