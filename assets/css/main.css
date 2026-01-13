@@ -1957,11 +1957,6 @@ article:last-child {
     object-fit: cover;
 }
 
-/* .image.fit {
-	display: block;
-	width: 100%;
-} */
-
 .image.fit {
 	display: block;
 	width: 125%;
